@@ -1,0 +1,472 @@
+
+
+      body {
+        font-family: "Roboto", sans-serif;
+        color: #0F0F0F;
+        background-color: #003f97;
+        background-repeat: repeat-y, repeat-y;
+        background-image: url('images/osc.png'), url('images/IMG_5424.JPG');
+        background-attachment: fixed;
+        background-position: right,left;
+        background-size: 3%,96.2%;
+      }
+
+      h1 {font-size:20pt;  
+        font-family: "Rubik", sans-serif;
+        background-color: white;
+        border: 2px solid white;
+        color: #003f97;
+        text-align: center;
+        display: inline-block;
+        margin-top: 0px;
+        width:300px;
+        padding: 15px;
+        box-shadow: 0 4px 15px 0 rgba(255, 255, 255, 0.637), 0 2px 8px 0 rgba(0, 0, 0, 0.733);
+      }
+      h1:hover {
+        color: white;
+        background-color: #003f97;
+      }
+
+      h2 {font-size:16pt;  font-family: "Rubik", sans-serif;}
+
+      header {
+        font-family: "Rubik", sans-serif;
+        font-size:16pt;
+        /*background-color: #f8f8f8;*/
+        padding: 20px;
+        text-align: center;
+        color: #003f97;
+        margin-bottom: 0pt;
+        width: 97%;
+        /*
+        background-image: url('IMG_0529.jpg');
+        background-repeat: repeat-y;
+        background-attachment: fixed;
+        background-position: right; 
+        background-size: 100% ;
+        */
+      }
+
+
+      nav {
+        z-index: 0;
+        font-family: "Rubik", sans-serif;
+        float: left;
+        width:"190px";
+        /*background: #f8f8f8;*/
+        padding: 10px;
+      }
+
+      
+      nav ul {
+        z-index: 0;
+        list-style-type: none;
+        padding: 10;
+      }
+
+      #horizbar{
+        display: inline;
+      }
+
+      article {
+        z-index: 80;
+        overflow: scroll;
+        float: left;
+        padding: 10px;
+        width: 69%;
+        background-color: #FFFFFF;
+        height: auto;
+        box-shadow: 0 4px 15px 0 rgba(53, 53, 53, 0.466), 0 2px 8px 0 rgba(31, 31, 31, 0.733);
+        position: relative; 
+      }
+
+      article:after{
+        position: absolute;
+        box-shadow: 0 4px 15px 0 rgba(53, 53, 53, 0.466), 0 2px 8px 0 rgba(31, 31, 31, 0.733);
+    }
+
+      section::after {
+        content: "";
+        display: table;
+        clear: both;
+      }
+
+      @media (max-width: 700px) {
+      header, nav, article {
+          width: 97%;
+          height: auto;
+        }
+      }
+
+      img {vertical-align: top; 
+           width:100%;
+      }
+
+      .switch {
+          width: 97%;
+          height: auto;
+        }
+
+      #oscilator {
+      float: right;
+      width: 3%;
+      height: 893pt;
+        background: url(images/osc.png);
+        background-size: 100% 3%;
+      }
+
+      a.navb:link, a.navb:visited {
+        background-color: white;
+        color: #003f97;
+        border: 2px solid white;
+        text-align: left;
+        text-decoration: none;
+        display: inline-block;
+        margin-bottom: 15px;
+        margin-left: 10px;
+        width:180px;
+        padding: 10px 10px;
+        box-shadow: 0 4px 15px 0 rgba(53, 53, 53, 0.466), 0 2px 8px 0 rgba(31, 31, 31, 0.733);
+      }
+
+      a.navb:hover, a.navb:active  {
+        text-decoration: none;
+        color: white;
+        background-color: #003f97;
+        width:190px;
+        margin-left: 0px;
+        padding: 10px 10px;
+        text-align: left;
+      }
+
+      a:link, a:visited {
+        color: #0047AB;
+        text-decoration: none;
+      }
+
+      a:hover, a:active  {
+        text-decoration: none;
+        color: gray;
+      }
+
+      #back-top {
+      font-family: "Rubik", sans-serif;
+      font-weight: 600;
+      display: none;
+      position: fixed;  
+      width: 140px;
+      text-align: left;
+      bottom: 0px; 
+      right: 5%;
+      font-size:10pt;
+      background-color: white;
+      color: #003f97;
+      border: 2px solid white;
+      text-align: center;
+      padding: 5px 5px;
+      box-shadow: 0 4px 15px 0 rgba(53, 53, 53, 0.466), 0 2px 8px 0 rgba(31, 31, 31, 0.733);
+      }
+      #back-top:hover {
+        background-color: #003f97;
+        color: white;
+        border: 2px solid white;
+      }
+
+      #bswitch {
+      font-family: "Rubik", sans-serif;
+      font-weight: 600;
+      display: none;
+      float: right;
+      margin-right: 1%;
+      font-size:10pt;
+      background-color: white;
+      color: #003f97;
+      border: 2px solid white;
+      text-align: center;
+      padding: 4px 10px;
+      box-shadow: 0 4px 15px 0 rgba(53, 53, 53, 0.466), 0 2px 8px 0 rgba(31, 31, 31, 0.733);
+      }
+      #bswitch:hover {
+        background-color: #003f97;
+        color: white;
+        border: 2px solid white;
+      }
+
+      button {
+        float: left;
+        background-color: #003f9700;
+        offset: 0px 0px;
+        border: 0px #003f9700;
+      }
+      .button {
+        float: left;
+        background-color: #003f97;
+        border: none;
+        text-align: center;
+        text-decoration: none;
+        margin: 2px 2px;
+        cursor: pointer;   
+      }      
+      .icon-bar {
+        z-index: 99;
+        width: 96.5%;
+        background-color: #003f97;
+        overflow: auto;
+        position:fixed; top:0pt; left:0pt;
+        box-shadow: 0 4px 15px 0 rgba(53, 53, 53, 0.466), 0 2px 8px 0 rgba(31, 31, 31, 0.733);
+      }
+
+      .icon-bar a {
+        width: 25pt;
+        text-align: left;
+        padding: 0px 0;
+        transition: all 0.3s ease;
+        color: white;
+        font-size: 16px;
+      }
+
+      .icon-pic{
+        text-align: center;
+        text-decoration: none;
+        float: left;
+        padding: 4px;
+        width:24pt;
+      }
+
+      .icon-pic:hover {
+          opacity: 0.5;
+      }
+        
+      * {
+        box-sizing: border-box;
+      }
+
+      .column {
+        float: left;
+        padding: 10px;
+        height: auto; 
+      }
+
+      .row:after {
+        content: "";
+        display: table;
+        clear: both;
+      }      
+
+      .grid {
+      display: grid;
+      margin-top: 10px;
+      margin-right: 10px;
+      grid-template-columns: 75% auto;
+      grid-row-gap: 10px;
+      grid-column-gap: 0px;
+      background-color: #f8f8f8
+    }
+    /*.grid > div */
+    .grid-text {
+      background-color: #FFFFFF;
+      text-align: left;
+      padding: 10px 10px;
+    }
+    .grid-img {
+      background-color: #ffffff;
+      text-align: center;
+      padding: 10px 10px;   
+      font-size:8pt;   
+    }
+
+    :focus {
+      outline: 0px dotted #003f97;  
+      opacity: 50%;
+    }
+
+    .footer {
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      background-color: #003f97;
+      color: white;
+      text-align: center;
+   }
+
+
+   /* for the slides:*/
+
+   .picturebox {
+    max-width: 100%;
+    position: relative;
+    margin: 5%;
+    margin-bottom: 0px;
+    overflow: hidden;
+    box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.25);
+  }
+  
+  
+  .left, .right {
+    z-index: 98;
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+    position: absolute;
+    top: 45%;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    
+  }
+  
+  .left:hover, .right:hover {
+    background-color:#003f97;
+    border: 2px solid white;
+    color: white;
+    box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.5);
+  }
+
+  .left {left: 0;}
+  .right {right: 0;}
+  
+  .select-pic {
+    z-index: 98;
+    height: 20px;
+    width: 20px;
+    margin-top: 10px;
+    background-color: white;
+    display: inline-block;
+    cursor: pointer; 
+    box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.25); 
+  }
+  
+  .active, .select-pic:hover {
+    z-index: 98;
+    background-color:#003f97;
+    border: 2px solid white;
+  }
+  
+  .slides {display: "none";}
+  
+
+  hr {
+    border: none;
+    /*border-top: 1px dotted black;*/
+    width:97%;
+    background-color: #f8f8f8;
+    height: 3px;
+    float: left;
+  }
+
+  input[type='checkbox'] { 
+    display: none; 
+  } 
+  .expanding { 
+    margin: 10px 10px; 
+  } 
+
+  .label-e{ 
+    text-align: left;   
+    font-family: "Rubik", sans-serif;
+    color: #003f97;
+    cursor: pointer; 
+  } 
+  .label-eblock{ 
+    text-align: left;   
+    font-family: "Rubik", sans-serif;
+    color: #003f97;
+    cursor: pointer; 
+    display: block;  
+    text-align: left; 
+    padding: 10px; 
+    font-size: 16pt;  
+    font-family: "Rubik", sans-serif;
+    background: #003f97; 
+    color: #ffffff;
+    cursor: pointer;  
+  } 
+  .label-s{ 
+    display: block;  
+    text-align: left; 
+    padding: 10px; 
+    font-size: 16pt;  
+    font-family: "Rubik", sans-serif;
+    background: #003f97; 
+    color: #ffffff;
+  } 
+  .label-e:hover { 
+    color: gray 
+  } 
+  .toggle:checked+
+  .label-e::before { 
+    transform: rotate(90deg)  
+  } 
+  .expanding-text { 
+    max-height: 0px; 
+    overflow: scroll; 
+    background: #f8f8f8;
+  } 
+  .toggle:checked + 
+  .label-e + 
+  .expanding-text { 
+    margin-top: 20px; 
+    padding: 20px;
+    max-height: 3000px; 
+  } 
+
+
+/*
+input[type='checkbox'] { 
+  display: none; 
+} 
+.wrap-collabsible { 
+  margin: 10px 0; 
+} 
+.lbl-toggle { 
+  display: block;  
+  text-align: left; 
+  padding: 10px; 
+  font-size: 16pt;  
+  font-family: "Rubik", sans-serif;
+  color: #FFF; 
+  background: #003f97; 
+  cursor: pointer;  
+} 
+.lbl-toggle:hover { 
+  color: gray 
+} 
+.toggle:checked+
+.lbl-toggle::before { 
+  transform: rotate(90deg)  
+} 
+.collapsible-content { 
+  max-height: 0px; 
+  overflow: scroll; 
+} 
+.toggle:checked + 
+.lbl-toggle + 
+.collapsible-content { 
+  max-height: 1000px; 
+} 
+*/
+
+    /*   
+    hr{
+      float: left;
+      width:97%;    
+      border-width:0;
+      margin: 0pt;
+      height:8px; 
+      background-color:#f8f8f8 
+    }
+    */
+ 
+      /*  <a href=""> <img src="menu.png" alt=""  class="icon-pic">  </a> 
+          <a href=""> <img src="mark.png" alt=""  class="icon-pic">  </a> 
+          <a href=""> <img src="gsch.png" alt=""  class="icon-pic">  </a> 
+          <a href=""> <img src="twit.png" alt=""  class="icon-pic">  </a> 
+          <a href=""> <img src="git.png" alt=""  class="icon-pic">  </a> 
+          <a href=""> <img src="web.png" alt=""  class="icon-pic">  </a>  
+      */
+
+
+
+

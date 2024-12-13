@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0f8db038-6a48-42dd-b2e3-0992c8a3f800" name="Changes" comment="include all my old website files">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lssirkina/lssirkina.github.io.git&quot;,
+    &quot;accountId&quot;: &quot;2ba25b8e-760b-481a-bdba-43b3c81945c7&quot;
+  }
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2QHvAFAfOKrXV8PEneYm5hvwqSM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;publish-branch&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/luba/Documents/lssirkina.github.io&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-6a3326d57233-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.24807.21" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f8db038-6a48-42dd-b2e3-0992c8a3f800" name="Changes" comment="" />
+      <created>1685023175841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685023175841</updated>
+    </task>
+    <task id="LOCAL-00001" summary="update talk">
+      <created>1685023288319</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685023288319</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update talk">
+      <created>1685023616591</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685023616591</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update talk">
+      <created>1685023684783</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685023684783</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add conference">
+      <created>1687212490332</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687212490332</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add conference">
+      <created>1687212528676</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687212528676</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add conference">
+      <created>1687212855239</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1687212855239</updated>
+    </task>
+    <task id="LOCAL-00007" summary="updates">
+      <option name="closed" value="true" />
+      <created>1687455601065</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1687455601065</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add poster pic">
+      <option name="closed" value="true" />
+      <created>1687462619358</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1687462619358</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add poster pic">
+      <option name="closed" value="true" />
+      <created>1687462811857</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1687462811857</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add preprint!">
+      <option name="closed" value="true" />
+      <created>1688123188650</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1688123188650</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add preprint!">
+      <option name="closed" value="true" />
+      <created>1688158217615</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1688158217615</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add arXiv widget">
+      <option name="closed" value="true" />
+      <created>1688158408417</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1688158408417</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add links to academic website profiles in the nav bar">
+      <option name="closed" value="true" />
+      <created>1688388726459</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1688388726459</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update favicon">
+      <option name="closed" value="true" />
+      <created>1688389770527</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1688389770527</updated>
+    </task>
+    <task id="LOCAL-00015" summary="minor corrections">
+      <option name="closed" value="true" />
+      <created>1688390908184</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1688390908184</updated>
+    </task>
+    <task id="LOCAL-00016" summary="minor corrections">
+      <option name="closed" value="true" />
+      <created>1688391421807</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1688391421807</updated>
+    </task>
+    <task id="LOCAL-00017" summary="add map&#10;modify intro">
+      <option name="closed" value="true" />
+      <created>1688579172317</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1688579172317</updated>
+    </task>
+    <task id="LOCAL-00018" summary="add map&#10;modify intro">
+      <option name="closed" value="true" />
+      <created>1688579401216</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1688579401216</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add paper figures to research&#10;add paper ref to publications">
+      <option name="closed" value="true" />
+      <created>1696254130823</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1696254130823</updated>
+    </task>
+    <task id="LOCAL-00020" summary="add summary of paper">
+      <option name="closed" value="true" />
+      <created>1696352986017</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1696352986017</updated>
+    </task>
+    <task id="LOCAL-00021" summary="html corrections&#10;add twitter link&#10;add altmetric">
+      <option name="closed" value="true" />
+      <created>1696372001851</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1696372001851</updated>
+    </task>
+    <task id="LOCAL-00022" summary="more html corrections">
+      <option name="closed" value="true" />
+      <created>1696372762335</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1696372762335</updated>
+    </task>
+    <task id="LOCAL-00023" summary="more html corrections">
+      <option name="closed" value="true" />
+      <created>1696373320836</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1696373320836</updated>
+    </task>
+    <task id="LOCAL-00024" summary="more html corrections">
+      <option name="closed" value="true" />
+      <created>1696373389282</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1696373389282</updated>
+    </task>
+    <task id="LOCAL-00025" summary="more html corrections">
+      <option name="closed" value="true" />
+      <created>1696373829530</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1696373829530</updated>
+    </task>
+    <task id="LOCAL-00026" summary="more html corrections">
+      <option name="closed" value="true" />
+      <created>1696374281947</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1696374281947</updated>
+    </task>
+    <task id="LOCAL-00027" summary="more html corrections">
+      <option name="closed" value="true" />
+      <created>1696375030585</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1696375030585</updated>
+    </task>
+    <task id="LOCAL-00028" summary="more html corrections">
+      <option name="closed" value="true" />
+      <created>1696375254304</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1696375254304</updated>
+    </task>
+    <task id="LOCAL-00029" summary="more html corrections">
+      <option name="closed" value="true" />
+      <created>1696375866095</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1696375866095</updated>
+    </task>
+    <task id="LOCAL-00030" summary="more html corrections">
+      <option name="closed" value="true" />
+      <created>1696376239634</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1696376239634</updated>
+    </task>
+    <task id="LOCAL-00031" summary="more html corrections">
+      <option name="closed" value="true" />
+      <created>1696376670571</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1696376670571</updated>
+    </task>
+    <task id="LOCAL-00032" summary="remove poster for now">
+      <option name="closed" value="true" />
+      <created>1701239417223</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1701239417223</updated>
+    </task>
+    <task id="LOCAL-00033" summary="remove poster for now">
+      <option name="closed" value="true" />
+      <created>1714511670545</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1714511670545</updated>
+    </task>
+    <task id="LOCAL-00034" summary="add PhD and award">
+      <option name="closed" value="true" />
+      <created>1714511728719</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1714511728719</updated>
+    </task>
+    <task id="LOCAL-00035" summary="include all my old website files">
+      <option name="closed" value="true" />
+      <created>1734127767555</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1734127767555</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update talk" />
+    <MESSAGE value="add conference" />
+    <MESSAGE value="updates" />
+    <MESSAGE value="add poster pic" />
+    <MESSAGE value="add preprint!" />
+    <MESSAGE value="add arXiv widget" />
+    <MESSAGE value="add links to academic website profiles in the nav bar" />
+    <MESSAGE value="update favicon" />
+    <MESSAGE value="minor corrections" />
+    <MESSAGE value="add map&#10;modify intro" />
+    <MESSAGE value="add paper figures to research&#10;add paper ref to publications" />
+    <MESSAGE value="add summary of paper" />
+    <MESSAGE value="html corrections&#10;add twitter link&#10;add altmetric" />
+    <MESSAGE value="more html corrections" />
+    <MESSAGE value="remove poster for now" />
+    <MESSAGE value="add PhD and award" />
+    <MESSAGE value="include all my old website files" />
+    <option name="LAST_COMMIT_MESSAGE" value="include all my old website files" />
+  </component>
+</project>
